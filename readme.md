@@ -9,6 +9,8 @@ A simple URL shortener built using **Golang**, **gRPC**, and **Gin**. It support
 
 ## 📦 Folder Structure
 
+```bash
+
 📁 grpc-url-shortener
 ├── 📁 client
 │   └── main.go                  # gRPC client code
@@ -23,7 +25,7 @@ A simple URL shortener built using **Golang**, **gRPC**, and **Gin**. It support
 ├── 📄 go.mod                    # Go module definition
 └── 📄 README.md                 # Project documentation
 
-
+```
 ---
 
 ## 🚀 Features
@@ -82,6 +84,11 @@ go run http_redirect/main.go
 #### Open in your browser:
 #### http://localhost:8080/x7Yz3A
 #### It redirects you to https://example.com/my-long-url.
+
+
+
+
+
 
 
 
