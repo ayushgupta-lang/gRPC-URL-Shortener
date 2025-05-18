@@ -82,7 +82,7 @@ go run http_redirect/main.go
 ```
 
 #### Open in your browser:
-#### http://localhost:8080/x7Yz3A
+#### http://localhost:8080/short/x7Yz3A
 #### It redirects you to https://example.com/my-long-url.
 
 
